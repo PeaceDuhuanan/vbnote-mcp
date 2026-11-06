@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.PeaceDuhuanan/vbnote",
+  "title": "Vbnote",
+  "description": "Search, browse, summarize, and read transcripts from your private Vbnote library.",
+  "version": "0.1.0",
+  "icons": [
+    {
+      "src": "https://4a08142c38dbe374195d41c04562d9f8.nebulab.app/favicon.png",
+      "mimeType": "image/png",
+      "sizes": ["256x256"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://4a08142c38dbe374195d41c04562d9f8.nebulab.app/mcp"
+    }
+  ]
+}
