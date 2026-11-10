@@ -2,8 +2,14 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.PeaceDuhuanan/vbnote",
   "title": "Vbnote",
-  "description": "Search, browse, summarize, and read transcripts from your private Vbnote library.",
-  "version": "0.1.0",
+  "description": "Search, browse, and summarize private notes, transcripts, and knowledge from Vbnote.",
+  "websiteUrl": "https://4a08142c38dbe374195d41c04562d9f8.nebulab.app/",
+  "repository": {
+    "url": "https://github.com/PeaceDuhuanan/vbnote-mcp",
+    "source": "github",
+    "id": "1447866269"
+  },
+  "version": "0.1.1",
   "icons": [
     {
       "src": "https://4a08142c38dbe374195d41c04562d9f8.nebulab.app/favicon.png",
